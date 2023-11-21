@@ -1,5 +1,5 @@
 header {
-  background-image: url("resources/img/P_00uUGKRzs.png");
+  background-image: url("antelope.JPG");
   background-size: cover;
   background-position: center;
   height: 100vh;
