@@ -76,7 +76,7 @@ body {
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: url("../img/P_00uUGKRzs.png");
+  background-image: url("../img/P_00uUGKRzs.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
