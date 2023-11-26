@@ -1,13 +1,10 @@
 header
 {box-sizing: border-box;}
-<style> {
-  background-image: url("img/P_00uUGKRzs.JPG");
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+<style>
+body {
+  background-image: url(img/P_00uUGKRzs.jpg);
+}
+</style>
   font-family: 'Open Sans', sans-serif;}
 .card {
   -webkit-perspective: 1500px;
