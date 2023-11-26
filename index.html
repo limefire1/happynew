@@ -13,7 +13,25 @@
     <script src="js/script.js"></script>
     
     <style>
-    
+    html, body{
+                height: 100%;
+                width: 100%;
+            }
+
+            @keyframes snow {
+                0%{
+                    background-position: 0px 0px, 0px 0px, 0px 0px;
+                }
+                100%{
+                    background-position: 600px 1800px, 600px 1200px, 600px 600px;
+                }
+                
+            }
+
+            body{
+                background-image: url('./img/background1.png'), url('./img/background2.png'), url('./img/background3.png');
+                animation: snow 30s linear infinite;
+
         h1{
             color:yellow;
         font-family: 'Cosmic Two_Cyrillic';
