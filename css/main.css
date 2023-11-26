@@ -1,19 +1,15 @@
-* {
-  box-sizing: border-box;
-}
-
+header
+{box-sizing: border-box;}
 body {
-  background-color: #50c878;
-  background-image: url("img/P_00uUGKRzs.jpg");
+  background-color: #00a550;
+  background-image: url("img/P_00uUGKRzs.JPG");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-family: 'Open Sans', sans-serif;
-}
-
+  font-family: 'Open Sans', sans-serif;}
 .card {
   -webkit-perspective: 1500px;
   perspective: 1500px;
@@ -33,14 +29,11 @@ body {
   -webkit-transform: rotate(-10deg) translate(0, 0);
   transform: rotate(-10deg) translate(0, 0);
   -webkit-animation: cardIn 1s alternate cubic-bezier(0.87, -0.41, 0.19, 1.44);
-  animation: cardIn 1s alternate cubic-bezier(0.87, -0.41, 0.19, 1.44);
-}
-
+  animation: cardIn 1s alternate cubic-bezier(0.87, -0.41, 0.19, 1.44);}
 @media (max-width: 767px) {
   .card {
     left: calc(50% - 115px);
-    top: calc(50% - 164.5px);
-  }
+    top: calc(50% - 164.5px);}
 }
 
 @media (max-width: 479px) {
