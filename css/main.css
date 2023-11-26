@@ -1,9 +1,15 @@
 header
 {box-sizing: border-box;}
-selector {
-  background-image: url("image.jpg");
+body {
+  background-color: #928A97;
+  background-image: url("../P_00uUGKRzs.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Open Sans', sans-serif;
 }
   -webkit-perspective: 1500px;
   perspective: 1500px;
