@@ -1,6 +1,6 @@
 header
 {box-sizing: border-box;}
-body {
+<style> {
   background-color: #00a550;
   background-image: url("img/P_00uUGKRzs.JPG");
   background-repeat: no-repeat;
