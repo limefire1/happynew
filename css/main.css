@@ -1,7 +1,8 @@
 header
 {box-sizing: border-box;}
 body {
-  background-image: url("../img/bg.jpg");
+  background-color: #00a550;
+  background-image: url("../bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
