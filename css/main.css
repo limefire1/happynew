@@ -1,7 +1,7 @@
 header
 {box-sizing: border-box;}
 body {
-  linear-gradient(to center, #E2BCBB, #E4514A);
+  background-image: linear-gradient(to center, #E2BCBB, #E4514A);
 }
   background-repeat: no-repeat;
   background-size: cover;
