@@ -2,7 +2,6 @@ header
 {box-sizing: border-box;}
 body {
   background-image: linear-gradient(to center, #E2BCBB, #E4514A);
-}
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
